@@ -13,7 +13,7 @@ app.use(express.static('./client/build'));
 
 app.get('/updates', updates.updatesHandler);
 
-const PORT = 80;
+const PORT = 443;
 
 
 app.listen(PORT, () => console.log(`Events service listening on port ${PORT}`));
