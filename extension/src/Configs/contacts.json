@@ -1,6 +1,0 @@
-{
-    "whatsapp" : "https://api.whatsapp.com/send?phone=000000000000",
-    "cell" : "tel:000000000000",
-    "facebook" : "https://www.facebook.com/openparlyzw/",
-    "twitter" : "https://twitter.com/OpenParlyZw"
-}
