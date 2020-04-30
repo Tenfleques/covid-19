@@ -1,0 +1,44 @@
+{
+    "_appname" : {
+        "title" : "Covid-19 ZW",
+        "description" : "application title"
+    },
+    "_org": {
+        "title" : "OpenParly ZW"
+    },
+    "_TotalTests": {
+        "title" : "Total Tests"
+    },
+    "_Deaths":{
+        "title" : "Deaths"
+    },
+    "_NegativeTests":{
+        "title" : "Negative Tests"
+    },
+    "_PositiveCases":{
+        "title" : "Positive Cases"
+    },
+    "_ICU":{
+        "title" : "in ICU"
+    },
+    "_data_actual_as_of_today":{
+        "title" : "Data actual as of today"
+    },
+    "_home_description":{
+        "title" : "This up give you updates of the Covid-19 cases in Zimbabwe"
+    },
+    "_transmision_cases":{
+        "title" : "Transmision source"
+    },
+    "_gender_cases":{
+        "title" : "Gender distribution of positive cases"
+    },
+    "_home_lead" : {
+        "title" : "Covid-19 Zimbabwe updates",
+        "description" : ""
+    },
+    "_provincial_cases": {
+        "title" : "Distribution of cases accross provinces",
+        "description" : ""
+    }
+}
