@@ -1,5 +1,5 @@
 {
-    "baseURL":"https://localhost",
+    "baseURL":"http://localhost:8080",
     "updates" : "/updates",
     "clients": "/clients"
 }
