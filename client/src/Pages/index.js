@@ -5,7 +5,6 @@ import BarChart from "../Components/Charts/barchart";
 import InfoCard from "../Components/card/info";
 import ZimbabweMapCard from "../Components/card/map";
 import TextUtilities from "../utilities/text";
-import DateUtilities from "../utilities/date"
 import API from "../Configs/api.json"
 
 const Home = AnimateLoad(class Home extends React.Component {

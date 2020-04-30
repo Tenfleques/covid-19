@@ -13,7 +13,8 @@ const NavBar = (props) => {
         </div>
         <div className="text-center nav-item">
           {Utils.DateUtils.getLocalDate()}
-        </div>        
+          <button className="add-button">Add to home screen</button>
+        </div>
       </nav>
     </div>
   );
