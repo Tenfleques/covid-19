@@ -1,0 +1,21 @@
+{
+    "name": "covidzw-rest",
+    "version": "0.1.0",
+    "private": true,
+    "description": "",
+    "dependencies": {
+        "body-parser": "1.19.0",
+        "cors": "2.8.5",
+        "express": "^4.17.1",
+        "express-sse": "^0.5.3",
+        "lossless-text-compression": "^1.1.0",
+        "multer": "^1.4.2",
+        "node-fetch": "^2.6.0"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": "10.x"
+    }
+}
